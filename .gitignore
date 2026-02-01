@@ -1,0 +1,12 @@
+# Composer vendor directory
+/vendor
+
+# Composer executable (optional, if you're not committing the phar file itself)
+composer.phar
+
+# Optional: IDE and OS specific files
+.idea/
+.vscode/
+.DS_Store
+npm-debug.log*
+yarn-error.log*
